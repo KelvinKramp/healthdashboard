@@ -1,0 +1,10 @@
+Accuracy of wrist-worn heart rate monitors for rate control assessment in atrial fibrillation
+Author links open overlay panelAhmed M.Al-Kaiseya1Anoop N.Koshybd1Francis J.Haa1RyanSpencera1LiamTonera1Jithin K.Sajeevb1Andrew W.Tehbc1OmarFarouquead1Han S.Limad1
+https://www.sciencedirect.com/science/article/pii/S0167527319341348
+Participants in SR demonstrated strong agreement compared to Holter monitoring (bias <1 beat, limits of agreement [LoA] −11 to 11 beats). In AF, both devices underestimated HR measurements (bias −9 beats, LoA −41 to 23). The degree of underestimation was more pronounced when HR > 100 bpm (bias of −28 beats for HR range 100–120 bpm, −48 for 120–140 bpm, and −69 for >140 bpm) compared to a slower HR (bias of −6 for HR range 80–100 bpm, <1 for 60–80 bpm, and −1 for <60 bpm).
+
+
+Use of a Smart Watch for Early Detection of Paroxysmal Atrial Fibrillation: Validation Study
+Tomohiko Inui 1 Author Orcid Image ;  Hiroki Kohno 1 Author Orcid Image ;  Yohei Kawasaki 2 Author Orcid Image ;  Kaoru Matsuura 1 Author Orcid Image ;  Hideki Ueda 1 Author Orcid Image ;  Yusaku Tamura 1 Author Orcid Image ;  Michiko Watanabe 1 Author Orcid Image ;  Yuichi Inage 1 Author Orcid Image ;  Yasunori Yakita 1 Author Orcid Image ;  Yutaka Wakabayashi 1 Author Orcid Image ;  Goro Matsumiya 1 Author Orcid Image
+https://cardio.jmir.org/2020/1/e14857/?fbclid=IwAR3KbfgJMb4VXw3nQUPmtEm5x7IHdztQeKtflPCJmKSrSfG4WVqYNsfzoIg&utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_Cardio_TrendMD_1
+In this validation study, the detection precision of AF and measurement accuracy during AF were both better with Apple Watch W mode than with FBT.
